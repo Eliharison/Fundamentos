@@ -1,0 +1,16 @@
+{
+  "name": "fundamentos",
+  "version": "1.0.0",
+  "description": "Implementação para conhecer os fundamentos do Next, React.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
